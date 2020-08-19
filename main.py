@@ -82,7 +82,7 @@ current_images = []
 
 screen.blit(start,(0,0))
 display.flip()
-time.sleep(5)
+time.sleep(3)
 
 while running:
     current_events = event.get()
